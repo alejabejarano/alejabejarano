@@ -1,5 +1,5 @@
 <div>
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/alejandra-bejarano-sap/">Mariía Alejandra</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/alejandra-bejarano-sap/">María Alejandra</a> 👋</h1>
  <p>Soy un apasionado programador junior en busca de oportunidades para crecer y aprender en el mundo de la tecnología. Me especializo en lenguajes de programación como Python, javascript, PHP. Estoy orientado al backend. Siempre estoy ansioso por adquirir nuevos conocimientos y desarrollar soluciones creativas para desafíos técnicos.
   
 Mi objetivo es seguir desarrollando mis habilidades como programador, colaborar en proyectos desafiantes y contribuir de manera significativa al crecimiento de un equipo o empresa. Siempre estoy abierto a nuevas oportunidades de aprendizaje y emocionado por enfrentar nuevos desafíos.</p>
