@@ -8,7 +8,7 @@ Mi objetivo es seguir desarrollando mis habilidades como programador, colaborar 
 
 ## Sobre mi
 
-- 📚 Autodidacta 📚
+- 📚 Autodidacta 📚🚀🪷
 - 📲💻 Web developer
 - 🧑‍ Curso The Complete 2023 Web Development Bootcamp en udemy
 - 🧑‍ Estudiante último semestre Ingeniería de sistemas
