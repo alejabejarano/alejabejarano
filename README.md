@@ -10,7 +10,7 @@
 
 ## Sobre mi
 
-📚 Autodidacta apasionada por el aprendizaje constante 🚀🪷\n
+📚 Autodidacta apasionada por el aprendizaje constante 🚀🪷 \\
 👩🏻‍💻 Consultora en Microsoft Dynamics con experiencia en SAP FI/CO y más de 3 años de experiencia en consultoría y desarrollo.
 🎓 Estudiante de Maestría en Economía en la Universidad de los Andes (2023 - 2025).
 🏆 Graduada en Finanzas y Relaciones Internacionales en la Universidad Externado de Colombia (2016 - 2022).
@@ -20,7 +20,7 @@
 
 ✨ Certificaciones destacadas:
 
-🎯 SAP Certified Associate – SAP S/4HANA Cloud Private Edition, Sales (dic. 2024 - dic. 2025)
+🎯 SAP Certified Associate – SAP S/4HANA Cloud Private Edition, Sales (dic. 2024 - dic. 2025) 
 📈 SAP Certified Associate – SAP S/4HANA Cloud Private Edition, Financial Accounting (nov. 2023 - mar. 2025)
 🏅 Applying SAP S/4HANA Sales – SAP (jul. 2024)
 🚀 Exploring SAP S/4HANA Sales – SAP (jul. 2024)
