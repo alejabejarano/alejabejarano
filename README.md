@@ -10,37 +10,38 @@
 
 ## Sobre mi
 
-📚 Autodidacta apasionada por el aprendizaje constante 🚀🪷 \\
-👩🏻‍💻 Consultora en Microsoft Dynamics con experiencia en SAP FI/CO y más de 3 años de experiencia en consultoría y desarrollo.
-🎓 Estudiante de Maestría en Economía en la Universidad de los Andes (2023 - 2025).
-🏆 Graduada en Finanzas y Relaciones Internacionales en la Universidad Externado de Colombia (2016 - 2022).
-💼 Experiencia en IBM como consultora funcional SAP FI para el pool de Perú, trabajando con clientes como Centria, Primax, Claro y Abbott.
-🔬 Apasionada por la investigación, con experiencia en análisis de datos y modelos financieros en DELFOS (Universidad Externado).
-🚀 Participación en la implementación de S/4Hana en Empresas Públicas de Medellín (EPM) como scrum master.
+📚 **Autodidacta apasionada por el aprendizaje constante** 🚀🪷  
+👩🏻‍💻 **Consultora en Microsoft Dynamics** con experiencia en **SAP FI/CO** y más de **3 años de experiencia** en consultoría y desarrollo.  
+🎓 **Estudiante de Maestría en Economía** en la **Universidad de los Andes** (2023 - 2025).  
+🏆 **Graduada en Finanzas y Relaciones Internacionales** en la **Universidad Externado de Colombia** (2016 - 2022).  
+💼 **Experiencia en IBM** como consultora funcional SAP FI para el pool de Perú, trabajando con clientes como **Centria, Primax, Claro y Abbott**.  
+🔬 **Apasionada por la investigación**, con experiencia en análisis de datos y modelos financieros en **DELFOS** (Universidad Externado).  
+🚀 **Participación en la implementación de S/4Hana** en **Empresas Públicas de Medellín** (EPM) como **scrum master**.  
 
-✨ Certificaciones destacadas:
+✨ **Certificaciones destacadas:**  
 
-🎯 SAP Certified Associate – SAP S/4HANA Cloud Private Edition, Sales (dic. 2024 - dic. 2025) 
-📈 SAP Certified Associate – SAP S/4HANA Cloud Private Edition, Financial Accounting (nov. 2023 - mar. 2025)
-🏅 Applying SAP S/4HANA Sales – SAP (jul. 2024)
-🚀 Exploring SAP S/4HANA Sales – SAP (jul. 2024)
-🧠 Big Data Foundations - Level 1 – IBM (ene. 2024)
-📊 SPSS Modeler Essentials – O'Reilly (ene. 2024)
-🎯 Enterprise Design Thinking Co-Creator – IBM (oct. 2023)
-🌐 SAP EBS + Lockbox – Udemy (jul. 2023)
-💡 SAP FICO (Finance & Controlling) Simplified For Beginners – Udemy (ene. 2023)
-🔎 Beginning SAP Fiori – IBM (ago. 2022)
-📘 Management Accounting (CO) I Part 1 – IBM (jun. 2022)
-🛠️ Tools for Data Science – IBM (jun. 2022)
-✅ Financial Closing in SAP S/4HANA – SAP (may. 2022)
-🌍 SAP Overview – SAP (may. 2022)
-🔧 SAP S/4HANA Erweiterte Variante Configuration (AVC) – SAP (may. 2022)
-💼 Banking Industry Jumpstart – IBM (abr. 2022)
-📊 Data Science Orientation – Coursera (abr. 2022)
-🧠 Machine Learning – Sololearn (abr. 2022)
-🏆 SAP ERP Financial and Management Accounting Basics – SAP (abr. 2022)
-🚀 Agile Explorer – IBM (mar. 2022)
-🌟 Practitioner Design Thinking – IBM (mar. 2022)
+- 🎯 **SAP Certified Associate** – SAP S/4HANA Cloud Private Edition, Sales *(dic. 2024 - dic. 2025)*  
+- 📈 **SAP Certified Associate** – SAP S/4HANA Cloud Private Edition, Financial Accounting *(nov. 2023 - mar. 2025)*  
+- 🏅 **Applying SAP S/4HANA Sales** – SAP *(jul. 2024)*  
+- 🚀 **Exploring SAP S/4HANA Sales** – SAP *(jul. 2024)*  
+- 🧠 **Big Data Foundations - Level 1** – IBM *(ene. 2024)*  
+- 📊 **SPSS Modeler Essentials** – O'Reilly *(ene. 2024)*  
+- 🎯 **Enterprise Design Thinking Co-Creator** – IBM *(oct. 2023)*  
+- 🌐 **SAP EBS + Lockbox** – Udemy *(jul. 2023)*  
+- 💡 **SAP FICO (Finance & Controlling) Simplified For Beginners** – Udemy *(ene. 2023)*  
+- 🔎 **Beginning SAP Fiori** – IBM *(ago. 2022)*  
+- 📘 **Management Accounting (CO) I Part 1** – IBM *(jun. 2022)*  
+- 🛠️ **Tools for Data Science** – IBM *(jun. 2022)*  
+- ✅ **Financial Closing in SAP S/4HANA** – SAP *(may. 2022)*  
+- 🌍 **SAP Overview** – SAP *(may. 2022)*  
+- 🔧 **SAP S/4HANA Erweiterte Variante Configuration (AVC)** – SAP *(may. 2022)*  
+- 💼 **Banking Industry Jumpstart** – IBM *(abr. 2022)*  
+- 📊 **Data Science Orientation** – Coursera *(abr. 2022)*  
+- 🧠 **Machine Learning** – Sololearn *(abr. 2022)*  
+- 🏆 **SAP ERP Financial and Management Accounting Basics** – SAP *(abr. 2022)*  
+- 🚀 **Agile Explorer** – IBM *(mar. 2022)*  
+- 🌟 **Practitioner Design Thinking** – IBM *(mar. 2022)*  
+
 
 
 <br>
