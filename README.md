@@ -11,12 +11,12 @@
 ## Sobre mi
 
 📚 **Autodidacta apasionada por el aprendizaje constante** 🚀🪷  
-👩🏻‍💻 **Consultora en Microsoft Dynamics** en SRF consultores, con experiencia en **SAP FI** y más de **3 años de experiencia** en consultoría y desarrollo.  
+👩🏻‍💻 **Consultora en Microsoft Dynamics** en SRF consultores. ☺️ 
 🎓 **Estudiante de Maestría en Economía** en la **Universidad de los Andes** (2023 - Actualmente).  
 🏆 **Graduada en Finanzas y Relaciones Internacionales** en la **Universidad Externado de Colombia** (2016 - 2022).  
 💼 **Experiencia en IBM** como consultora funcional SAP FI para el pool de Perú, trabajando con clientes como **Arca Continental, Centria, Primax, Claro, Abbott y Diamante Pesquera**.  
-🔬 **Apasionada por la investigación**, con experiencia en análisis de datos y modelos financieros en **DELFOS** (Universidad Externado) y La Escuela de Inteligencia y Contrainteligencia.  
 🚀 **Participación en la implementación de S/4Hana** en **Empresas Públicas de Medellín** (EPM) como **scrum master**.  
+🔬 **Apasionada por la investigación**, con experiencia en análisis de datos y modelos financieros. Parte del equipo de estudiantes fundador del centro de análisis de datos **DELFOS** (Universidad Externado) y pasante de investigación en Escuela de Inteligencia y Contrainteligencia.
 
 ✨ **Certificaciones destacadas:**  
 
