@@ -2,9 +2,9 @@
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/alejandra-bejarano-sap/">María Alejandra</a> 👋</h1>
  <p> 👩🏻‍💻 Consultora SAP y Microsoft Dynamics con formación en finanzas y relaciones internacionales. Actualmente, curso una maestría en economía, amo la investigación y me declaro una exploradora llena de curiosidad y pasión. 🌍💼
 
-💡 Creo en vivir cada desafío con el asombro de quien lo vive, como diría Andrea Bocelli: "con una pasión recién descubierta." ❤️
+💡 Creo en vivir cada desafío con el asombro y dedicación, como diría Andrea Bocelli: "con una pasión recién descubierta." ❤️
 
-🚀 Así que: ¡Bienvenidos a esta caja de proyectos donde comparto experiencias, aprendizajes y pequeñas huellas de mi camino profesional!</p>
+🚀 Así que, gracias por pasarse por aquí y: ¡Bienvenidos a esta caja de proyectos donde comparto experiencias, aprendizajes y pequeñas huellas de mi camino profesional!</p>
 </div>
 <img src="/GITHUB.png">
 
