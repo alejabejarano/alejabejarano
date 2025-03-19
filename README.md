@@ -10,7 +10,7 @@
 
 ## Sobre mi
 
-📚 Autodidacta apasionada por el aprendizaje constante 🚀🪷
+📚 Autodidacta apasionada por el aprendizaje constante 🚀🪷\n
 👩🏻‍💻 Consultora en Microsoft Dynamics con experiencia en SAP FI/CO y más de 3 años de experiencia en consultoría y desarrollo.
 🎓 Estudiante de Maestría en Economía en la Universidad de los Andes (2023 - 2025).
 🏆 Graduada en Finanzas y Relaciones Internacionales en la Universidad Externado de Colombia (2016 - 2022).
