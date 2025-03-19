@@ -1,19 +1,46 @@
 <div>
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/alejandra-bejarano-sap/">María Alejandra</a> 👋</h1>
- <p>Soy un apasionado programador junior en busca de oportunidades para crecer y aprender en el mundo de la tecnología. Me especializo en lenguajes de programación como Python, javascript, PHP. Estoy orientado al backend. Siempre estoy ansioso por adquirir nuevos conocimientos y desarrollar soluciones creativas para desafíos técnicos.
-  
-Mi objetivo es seguir desarrollando mis habilidades como programador, colaborar en proyectos desafiantes y contribuir de manera significativa al crecimiento de un equipo o empresa. Siempre estoy abierto a nuevas oportunidades de aprendizaje y emocionado por enfrentar nuevos desafíos.</p>
+ <p> 👩🏻‍💻 Consultora SAP y Microsoft Dynamics con formación en finanzas y relaciones internacionales. Actualmente, curso una maestría en economía, amo la investigación y me declaro una exploradora llena de curiosidad y pasión. 🌍💼
+
+💡 Creo en vivir cada desafío con el asombro de quien lo vive, como diría Andrea Bocelli: "con una pasión recién descubierta." ❤️
+
+🚀 Así que: ¡Bienvenidos a esta caja de proyectos donde comparto experiencias, aprendizajes y pequeñas huellas de mi camino profesional!</p>
 </div>
 <img src="/GITHUB.png">
 
 ## Sobre mi
 
-- 📚 Autodidacta 📚🚀🪷
-- 📲💻 Web developer
-- 🧑‍ Curso The Complete 2023 Web Development Bootcamp en udemy
-- 🧑‍ Estudiante último semestre Ingeniería de sistemas
-- 1.5 años de experiencia como desarrollador de software
-- 🧑‍ Curso Python avanzado en udemy
+📚 Autodidacta apasionada por el aprendizaje constante 🚀🪷
+👩🏻‍💻 Consultora en Microsoft Dynamics con experiencia en SAP FI/CO y más de 3 años de experiencia en consultoría y desarrollo.
+🎓 Estudiante de Maestría en Economía en la Universidad de los Andes (2023 - 2025).
+🏆 Graduada en Finanzas y Relaciones Internacionales en la Universidad Externado de Colombia (2016 - 2022).
+💼 Experiencia en IBM como consultora funcional SAP FI para el pool de Perú, trabajando con clientes como Centria, Primax, Claro y Abbott.
+🔬 Apasionada por la investigación, con experiencia en análisis de datos y modelos financieros en DELFOS (Universidad Externado).
+🚀 Participación en la implementación de S/4Hana en Empresas Públicas de Medellín (EPM) como scrum master.
+
+✨ Certificaciones destacadas:
+
+🎯 SAP Certified Associate – SAP S/4HANA Cloud Private Edition, Sales (dic. 2024 - dic. 2025)
+📈 SAP Certified Associate – SAP S/4HANA Cloud Private Edition, Financial Accounting (nov. 2023 - mar. 2025)
+🏅 Applying SAP S/4HANA Sales – SAP (jul. 2024)
+🚀 Exploring SAP S/4HANA Sales – SAP (jul. 2024)
+🧠 Big Data Foundations - Level 1 – IBM (ene. 2024)
+📊 SPSS Modeler Essentials – O'Reilly (ene. 2024)
+🎯 Enterprise Design Thinking Co-Creator – IBM (oct. 2023)
+🌐 SAP EBS + Lockbox – Udemy (jul. 2023)
+💡 SAP FICO (Finance & Controlling) Simplified For Beginners – Udemy (ene. 2023)
+🔎 Beginning SAP Fiori – IBM (ago. 2022)
+📘 Management Accounting (CO) I Part 1 – IBM (jun. 2022)
+🛠️ Tools for Data Science – IBM (jun. 2022)
+✅ Financial Closing in SAP S/4HANA – SAP (may. 2022)
+🌍 SAP Overview – SAP (may. 2022)
+🔧 SAP S/4HANA Erweiterte Variante Configuration (AVC) – SAP (may. 2022)
+💼 Banking Industry Jumpstart – IBM (abr. 2022)
+📊 Data Science Orientation – Coursera (abr. 2022)
+🧠 Machine Learning – Sololearn (abr. 2022)
+🏆 SAP ERP Financial and Management Accounting Basics – SAP (abr. 2022)
+🚀 Agile Explorer – IBM (mar. 2022)
+🌟 Practitioner Design Thinking – IBM (mar. 2022)
 
 
 <br>
