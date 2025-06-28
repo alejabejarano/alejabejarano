@@ -46,6 +46,13 @@
 
 <br>
 
+
+
+![alejabejarano's Stats](https://github-readme-stats.vercel.app/api?username=alejabejarano&theme=buefy&show_icons=true&hide_border=true&count_private=true)
+![alejabejarano's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alejabejarano&theme=buefy&hide_border=true)
+![alejabejarano's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alejabejarano&theme=buefy&show_icons=true&hide_border=true&layout=compact)
+
+
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
